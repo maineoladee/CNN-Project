@@ -1,0 +1,845 @@
+Sample number,Production area,Bed ID,Local authority,"Grid reference
+
+Note 1             ",Sampling point,Date sample collected,"Alexandrium spp. 
+cells L-1
+(PSP)","Dinophysiaceae 
+cells L-1
+(DSP)","Prorocentrum lima 
+cells L-1
+(DSP)","Pseudo-nitzschia spp. 
+cells L-1
+(ASP) ","Ligulodinium polyedrum 
+cells L-1
+(Yessotoxin)","Protoceratium reticulatum 
+cells L-1
+(Yessotoxin) ","Prorocentrum cordatum 
+cells L-1
+(Venerupin) "
+Jan-21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,04/01/2021,0,0,0,0,0,0,0
+Feb-21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,04/01/2021,0,0,0,0,0,0,0
+Mar-21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,05/01/2021,0,0,0,400,0,0,0
+Apr-21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,05/01/2021,0,0,0,0,0,0,0
+May-21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,06/01/2021,0,0,0,0,0,0,0
+Jun-21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,11/01/2021,0,0,0,0,0,0,0
+Jul-21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,11/01/2021,0,0,0,0,0,0,0
+Sep-21,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,11/01/2021,0,0,0,0,0,0,0
+Oct-21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,11/01/2021,0,0,0,0,0,0,0
+Nov-21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,11/01/2021,0,0,0,0,0,0,0
+Dec-21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,11/01/2021,0,0,0,0,0,0,0
+13/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,10/01/2021,0,0,0,0,0,0,0
+14/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,11/01/2021,0,0,0,0,0,0,0
+15/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,12/01/2021,0,0,0,0,0,0,0
+16/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,12/01/2021,0,0,0,0,0,0,0
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+18/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,12/01/2021,0,0,0,0,0,0,0
+19/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,12/01/2021,0,0,0,0,0,0,0
+20/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,12/01/2021,0,0,0,0,0,0,0
+21/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,12/01/2021,0,0,0,0,0,0,0
+22/21,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,12/01/2021,0,0,0,200,0,0,0
+23/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,12/01/2021,0,0,0,0,0,0,0
+24/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,12/01/2021,0,0,0,0,0,0,0
+25/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,11/01/2021,0,0,0,0,0,0,0
+26/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,11/01/2021,0,0,0,0,0,0,0
+27/21,The Wash,B003V,Boston BC,TF44234098,Toft,13/01/2021,0,0,0,0,0,0,0
+28/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,13/01/2021,0,0,0,0,0,0,0
+29/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,13/01/2021,0,0,0,0,0,0,0
+30/21,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,13/01/2021,0,0,0,0,0,0,0
+31/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,13/01/2021,0,0,0,0,0,0,0
+32/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,13/01/2021,0,0,0,0,0,0,0
+33/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,14/01/2021,0,0,0,0,0,0,0
+34/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,18/01/2021,0,40,0,0,0,0,0
+35/21,Swale,B076P,Swale BC,TR01316497,The Causeway,18/01/2021,0,0,0,0,0,0,0
+36/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,19/01/2021,0,0,0,0,0,0,0
+37/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,19/01/2021,0,0,0,0,0,0,0
+38/21,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,19/01/2021,0,0,0,0,0,0,0
+39/21,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,19/01/2021,0,0,0,0,0,0,0
+40/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,19/01/2021,0,0,0,0,0,0,0
+41/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,19/01/2021,0,0,0,800,0,0,0
+43/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,20/01/2021,0,0,0,0,0,0,0
+44/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,21/01/2021,0,0,0,0,0,0,0
+45/21,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,21/01/2021,0,0,0,0,0,0,0
+46/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,21/01/2021,0,0,0,0,0,0,0
+47/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,25/01/2021,0,0,0,0,0,0,0
+48/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,25/01/2021,0,0,0,0,0,0,0
+49/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,26/01/2021,0,0,0,0,0,0,0
+50/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,26/01/2021,0,0,0,0,0,0,0
+51/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,26/01/2021,0,0,0,0,0,0,0
+52/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,27/01/2021,0,0,0,600,0,0,0
+53/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,27/01/2021,0,0,0,0,0,0,0
+55/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,01/02/2021,0,0,0,0,0,0,0
+56/21,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,01/02/2021,0,0,0,0,0,0,0
+57/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,31/01/2021,0,0,0,0,0,0,0
+58/21,The Wash,B003V,Boston BC,TF44234098,Toft,01/02/2021,0,0,0,0,0,0,0
+59/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,02/02/2021,0,0,0,0,0,0,0
+60/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,01/02/2021,0,0,0,0,0,0,0
+61/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,09/02/2021,0,0,0,0,0,0,0
+62/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,09/02/2021,0,0,0,0,0,0,0
+63/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,09/02/2021,0,0,0,0,0,0,0
+64/21,Dart,B028B,South Hams DC,SX87415599,Waddeton,09/02/2021,0,0,0,0,0,0,0
+65/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,08/02/2021,0,0,0,0,0,0,0
+66/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,09/02/2021,0,0,0,0,0,0,0
+67/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,09/02/2021,0,0,0,0,0,0,0
+68/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,10/02/2021,0,0,0,0,0,0,0
+69/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,10/02/2021,0,0,100,0,0,0,0
+70/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,10/02/2021,0,0,0,0,0,0,0
+71/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,10/02/2021,0,0,0,0,0,0,0
+72/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,10/02/2021,0,0,0,0,0,0,0
+73/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,10/02/2021,0,0,0,0,0,0,0
+74/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,11/02/2021,0,0,0,0,0,0,0
+75/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,11/02/2021,0,0,0,0,0,0,0
+76/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,11/02/2021,0,0,0,800,0,0,0
+78/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,15/02/2021,0,0,0,80,0,0,0
+79/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,15/02/2021,0,0,0,200,0,0,0
+80/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,15/02/2021,0,0,0,80,0,0,0
+81/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,15/02/2021,0,0,0,0,0,0,0
+82/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,15/02/2021,0,0,0,0,0,0,0
+83/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,16/02/2021,0,0,0,0,0,0,0
+84/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,16/02/2021,0,0,0,0,0,0,0
+85/21,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,16/02/2021,0,0,0,0,0,0,0
+86/21,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,16/02/2021,0,0,0,800,0,0,0
+87/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,16/02/2021,0,0,0,0,0,0,0
+88/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,15/02/2021,0,0,0,0,0,0,0
+89/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,16/02/2021,0,0,0,0,0,0,0
+90/21,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,16/02/2021,0,0,0,1000,0,0,0
+91/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,16/02/2021,0,0,0,0,0,0,0
+92/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,17/02/2021,0,0,0,400,0,0,0
+93/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,17/02/2021,200,0,0,0,0,0,0
+94/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,16/02/2021,0,0,0,0,0,0,0
+95/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,17/02/2021,0,0,0,0,0,0,0
+96/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,17/02/2021,0,0,0,0,0,0,0
+97/21,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,17/02/2021,0,0,0,0,0,0,0
+98/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,18/02/2021,0,0,0,1000,0,0,0
+99/21,Swale,B076P,Swale BC,TR01316497,The Causeway,18/02/2021,0,0,0,0,0,0,0
+101/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,22/02/2021,0,0,0,160,0,0,0
+102/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,23/02/2021,0,0,0,0,0,0,0
+103/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,23/02/2021,0,0,0,0,0,0,0
+104/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,22/02/2021,0,0,0,320,0,0,0
+105/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,22/02/2021,0,0,0,80,0,0,0
+106/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,24/02/2021,0,0,0,0,0,0,0
+107/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,25/02/2021,0,0,0,0,0,0,0
+108/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,25/02/2021,0,0,0,0,0,0,0
+109/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,25/02/2021,0,0,0,560,0,0,0
+110/21,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,01/03/2021,0,0,0,800,0,0,0
+111/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,01/03/2021,0,0,0,0,0,0,0
+112/21,The Wash,B003V,Boston BC,TF44234098,Toft,01/03/2021,0,0,0,0,0,0,0
+113/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,02/03/2021,0,0,0,0,0,0,0
+114/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,01/03/2021,0,0,0,600,0,0,0
+115/21,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,02/03/2021,0,0,0,0,0,0,0
+116/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,03/03/2021,0,0,0,0,0,0,0
+117/21,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,03/03/2021,0,0,0,0,0,0,0
+118/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,04/03/2021,0,0,0,3600,0,0,0
+120/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,09/03/2021,0,0,0,0,0,0,0
+121/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,09/03/2021,0,0,0,0,0,0,0
+122/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,09/03/2021,0,0,0,0,0,0,0
+123/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,09/03/2021,40,0,0,1160,0,0,0
+124/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,09/03/2021,0,0,0,2400,0,0,0
+125/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,09/03/2021,0,0,0,0,0,0,0
+126/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,09/03/2021,0,0,0,0,0,0,0
+127/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,09/03/2021,0,0,0,0,0,0,0
+128/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,09/03/2021,0,0,0,0,0,0,0
+129/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,09/03/2021,0,0,0,0,0,0,0
+130/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,09/03/2021,0,0,0,0,0,0,0
+131/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,09/03/2021,0,0,0,0,0,0,0
+132/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,08/03/2021,0,0,0,200,0,0,0
+133/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,09/03/2021,0,0,0,0,0,0,0
+134/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,10/03/2021,0,0,0,0,0,0,0
+135/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,10/03/2021,0,0,0,0,0,0,0
+137/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,12/03/2021,0,0,0,0,0,0,0
+138/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,15/03/2021,0,0,0,0,0,0,0
+139/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,15/03/2021,0,0,0,0,0,0,0
+140/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,15/03/2021,0,0,0,0,0,0,0
+141/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,14/03/2021,0,0,0,2700,0,0,0
+142/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,15/03/2021,0,0,0,0,0,0,0
+143/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,15/03/2021,0,0,0,0,0,0,0
+144/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,15/03/2021,0,0,0,0,0,0,0
+145/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,16/03/2021,0,0,0,0,0,0,0
+146/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,16/03/2021,0,0,0,0,0,0,0
+147/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,16/03/2021,0,0,0,80,0,0,0
+148/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,16/03/2021,0,0,0,0,0,0,0
+149/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,17/03/2021,0,0,0,0,0,0,0
+150/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,15/03/2021,0,0,0,0,0,0,0
+151/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,15/03/2021,0,0,0,80,0,0,40
+152/21,Swale,B076P,Swale BC,TR01316497,The Causeway,18/03/2021,0,0,0,0,0,0,0
+153/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,21/03/2021,0,0,0,0,0,0,0
+154/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,22/03/2021,0,0,0,0,0,0,0
+155/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,22/03/2021,0,0,0,0,0,0,0
+156/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,22/03/2021,0,0,0,400,0,0,0
+157/21,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,23/03/2021,0,0,0,0,0,0,0
+158/21,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,23/03/2021,0,0,0,0,0,0,0
+159/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,23/03/2021,0,0,0,400,0,0,0
+160/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,23/03/2021,0,0,0,0,0,0,0
+161/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,23/03/2021,0,0,0,400,0,0,0
+162/21,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,24/03/2021,0,0,0,0,0,0,0
+163/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,24/03/2021,0,80,0,0,0,0,0
+164/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,26/03/2021,0,0,0,0,0,0,0
+165/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,29/03/2021,0,0,0,600,0,0,0
+166/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,30/03/2021,100,0,0,0,0,0,0
+167/21,Portland,B25AK,Dorset Council,SY68707757,Site A,30/03/2021,0,0,0,12720,0,0,0
+168/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,06/04/2021,0,0,0,1400,0,0,0
+169/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,06/04/2021,0,0,0,160,0,0,40
+170/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,06/04/2021,0,0,0,0,0,0,0
+171/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,06/04/2021,0,0,0,160,0,0,0
+172/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,06/04/2021,0,0,0,400,0,0,0
+173/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,06/04/2021,0,0,0,1000,0,0,0
+174/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,06/04/2021,0,0,0,0,0,0,0
+175/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,06/04/2021,0,0,0,0,0,0,0
+176/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,06/04/2021,0,0,0,0,0,0,0
+177/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,07/04/2021,0,0,0,240,0,0,0
+178/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,07/04/2021,0,0,0,0,0,0,0
+180/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,07/04/2021,0,0,0,0,0,0,0
+181/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,06/04/2021,0,0,0,160,0,0,0
+182/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,06/04/2021,0,40,0,640,0,0,0
+183/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,06/04/2021,0,0,0,0,0,0,0
+184/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,07/04/2021,0,0,0,0,0,0,0
+185/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,07/04/2021,0,0,0,0,0,0,0
+186/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,06/04/2021,0,0,0,400,0,0,0
+187/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,07/04/2021,0,0,0,400,0,0,0
+189/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,08/04/2021,0,0,0,0,0,0,200
+190/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,11/04/2021,0,0,0,600,0,0,0
+191/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,12/04/2021,0,0,0,0,0,0,0
+192/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,12/04/2021,0,0,0,880,0,0,0
+193/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,13/04/2021,0,40,0,960,0,0,0
+194/21,The Wash,B003V,Boston BC,TF44234098,Toft,12/04/2021,0,0,0,2400,0,0,0
+195/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,13/04/2021,0,0,0,0,0,0,0
+196/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,12/04/2021,0,0,0,3200,0,0,0
+197/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,13/04/2021,0,0,0,0,0,0,0
+198/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,13/04/2021,0,0,0,0,0,0,0
+199/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,13/04/2021,0,0,0,160,0,0,0
+200/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,13/04/2021,0,0,0,0,0,0,0
+201/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,13/04/2021,0,0,0,1080,0,0,0
+202/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,13/04/2021,0,0,0,0,0,0,0
+203/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,13/04/2021,0,0,0,0,0,0,0
+204/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,12/04/2021,0,0,0,0,0,0,0
+205/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,13/04/2021,0,0,0,200,0,0,0
+206/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,13/04/2021,0,0,0,0,0,0,0
+207/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,13/04/2021,0,0,0,0,0,0,0
+208/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,13/04/2021,0,0,0,0,0,0,0
+209/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,12/04/2021,0,0,0,160,0,0,0
+210/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,12/04/2021,0,0,0,840,0,0,0
+211/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,14/04/2021,0,0,0,0,0,0,0
+212/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,14/04/2021,0,0,0,200,0,0,0
+213/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,14/04/2021,0,0,0,560,0,0,0
+214/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,14/04/2021,0,0,0,640,0,0,0
+215/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,14/04/2021,0,0,0,320,0,0,0
+216/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,14/04/2021,0,0,0,320,0,0,0
+217/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,15/04/2021,0,0,0,3800,0,0,0
+219/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,19/04/2021,0,0,0,2360,0,0,0
+220/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,19/04/2021,0,0,0,840,0,0,0
+221/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,19/04/2021,0,80,0,0,0,0,0
+222/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,19/04/2021,0,0,0,4600,0,0,0
+223/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,18/04/2021,0,0,0,8760,0,0,0
+224/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,19/04/2021,0,0,0,3480,0,0,0
+225/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,19/04/2021,0,0,0,0,0,0,0
+226/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,19/04/2021,0,0,0,120,0,0,0
+227/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,19/04/2021,0,0,0,3600,0,0,0
+228/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,20/04/2021,0,0,0,0,0,0,0
+229/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,20/04/2021,0,0,0,80,0,0,0
+230/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,20/04/2021,0,0,0,320,0,0,0
+231/21,Portland,B25AK,Dorset Council,SY68707757,Site A,19/04/2021,0,0,0,1920,0,0,0
+232/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,20/04/2021,0,0,0,0,0,0,0
+233/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,20/04/2021,0,0,0,800,0,0,0
+234/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,20/04/2021,0,0,0,0,0,0,0
+235/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,21/04/2021,0,0,0,1760,0,0,0
+236/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,26/04/2021,0,0,0,280,0,0,0
+237/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,26/04/2021,0,0,0,400,0,0,0
+238/21,Dart,B028B,South Hams DC,SX87415599,Waddeton,26/04/2021,0,40,0,1960,0,0,0
+239/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,26/04/2021,0,0,0,5600,0,0,0
+241/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,26/04/2021,0,0,0,4280,0,0,0
+242/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,27/04/2021,0,80,0,3960,0,0,0
+243/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,27/04/2021,0,0,0,0,0,0,0
+244/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,27/04/2021,0,0,0,8100,0,0,0
+245/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,27/04/2021,0,0,0,10300,0,0,0
+246/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,27/04/2021,0,0,0,3000,0,0,0
+247/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,27/04/2021,0,0,0,0,0,0,0
+248/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,26/04/2021,0,0,0,1480,0,0,0
+249/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,27/04/2021,0,40,0,720,0,0,0
+250/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,27/04/2021,0,0,0,400,0,0,0
+251/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,28/04/2021,0,0,0,2080,0,0,0
+252/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,27/04/2021,0,0,0,8600,0,0,0
+253/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,28/04/2021,0,0,0,0,0,0,0
+254/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,28/04/2021,0,0,0,0,0,0,0
+255/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,28/04/2021,100,0,0,185500,0,0,0
+256/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,28/04/2021,0,0,0,60900,0,0,0
+257/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,28/04/2021,0,0,0,0,0,0,40
+258/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,28/04/2021,0,0,0,0,0,0,0
+259/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,28/04/2021,0,0,0,0,720,0,0
+260/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,29/04/2021,0,0,0,1800,0,0,0
+261/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,04/05/2021,0,0,0,200,300,0,200
+262/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,04/05/2021,0,0,0,0,0,0,100
+263/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,04/05/2021,100,0,0,0,0,0,0
+264/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,04/05/2021,0,0,0,6280,0,0,0
+265/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,04/05/2021,0,0,0,4600,0,0,0
+266/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,04/05/2021,0,0,0,0,0,0,0
+267/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,04/05/2021,0,0,0,2900,0,0,0
+268/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,04/05/2021,0,0,0,400,0,0,0
+270/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,05/05/2021,0,0,0,1900,0,0,0
+271/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,05/05/2021,0,0,0,2000,0,0,0
+272/21,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,05/05/2021,0,0,0,1840,0,0,0
+273/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,05/05/2021,0,80,0,2280,0,0,0
+274/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,05/05/2021,0,0,0,7080,0,0,0
+275/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,05/05/2021,0,0,0,0,0,0,0
+276/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,05/05/2021,0,0,0,80,0,0,0
+277/21,The Wash,B003V,Boston BC,TF44234098,Toft,10/05/2021,0,0,0,0,0,0,0
+278/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,10/05/2021,0,0,0,0,0,0,0
+279/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,10/05/2021,200,0,0,1000,0,0,0
+280/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,10/05/2021,0,0,0,0,0,0,0
+281/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,10/05/2021,0,0,0,13080,0,0,0
+282/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,10/05/2021,0,0,0,17400,0,0,0
+283/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,10/05/2021,0,0,0,13720,0,0,0
+284/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,10/05/2021,0,0,0,0,0,0,0
+285/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,10/05/2021,0,0,0,80,0,0,0
+286/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,10/05/2021,0,0,0,400,0,0,40
+287/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,10/05/2021,0,0,0,200,0,0,0
+288/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,11/05/2021,0,0,0,11300,0,0,0
+289/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,11/05/2021,0,0,40,0,0,0,0
+290/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,11/05/2021,0,0,0,240,0,0,0
+291/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,11/05/2021,0,0,0,8300,0,0,0
+292/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,11/05/2021,0,0,0,2100,0,0,0
+293/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,11/05/2021,0,0,40,360,0,0,0
+294/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,11/05/2021,0,0,0,800,0,0,0
+295/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,11/05/2021,0,0,0,0,0,0,0
+296/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,11/05/2021,0,0,0,0,0,0,0
+297/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,11/05/2021,0,0,0,1200,0,0,0
+298/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,11/05/2021,0,0,0,4800,0,0,0
+299/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,11/05/2021,0,0,0,0,0,0,0
+300/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,12/05/2021,0,0,0,1120,0,0,0
+301/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,12/05/2021,0,0,0,0,0,0,0
+302/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,11/05/2021,0,0,0,66400,0,0,200
+303/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,12/05/2021,0,0,0,0,0,0,0
+304/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,12/05/2021,0,0,0,400,0,0,0
+305/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,12/05/2021,0,0,0,152900,0,0,100
+306/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,12/05/2021,0,0,0,71400,0,0,0
+307/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,13/05/2021,0,0,0,800,0,0,0
+308/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,12/05/2021,100,0,0,0,0,0,0
+309/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,17/05/2021,0,0,0,13520,0,0,0
+310/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,17/05/2021,0,0,0,42120,0,0,0
+311/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,17/05/2021,0,40,0,38520,0,0,0
+312/21,Portland,B25AK,Dorset Council,SY68707757,Site A,17/05/2021,0,0,0,800,0,0,0
+313/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,17/05/2021,40,0,0,1640,0,0,80
+314/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,17/05/2021,0,0,0,1300,0,0,0
+315/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,18/05/2021,0,0,0,6440,0,0,280
+316/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,18/05/2021,0,0,0,4800,0,0,160
+317/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,18/05/2021,0,0,0,3280,0,0,80
+318/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,17/05/2021,0,0,0,0,0,0,0
+319/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,18/05/2021,0,0,0,2000,0,0,0
+320/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,18/05/2021,0,0,0,400,0,0,0
+321/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,18/05/2021,0,0,0,1900,0,0,0
+322/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,18/05/2021,0,40,0,13680,0,0,0
+323/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,18/05/2021,0,0,0,252000,0,0,0
+324/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,19/05/2021,0,0,0,18400,0,0,0
+325/21,Swale,B076P,Swale BC,TR01316497,The Causeway,19/05/2021,0,0,0,1800,0,0,0
+326/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,19/05/2021,0,0,0,0,0,0,0
+328/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,24/05/2021,0,0,0,1600,0,0,0
+330/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,24/05/2021,0,0,0,8000,0,0,0
+331/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,24/05/2021,0,0,0,1300,0,0,0
+332/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,24/05/2021,0,0,0,0,0,0,0
+333/21,Dart,B028B,South Hams DC,SX87415599,Waddeton,24/05/2021,0,0,0,0,0,0,0
+334/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,24/05/2021,0,0,0,1360,0,0,0
+335/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,25/05/2021,0,0,0,0,0,0,0
+336/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,24/05/2021,0,0,0,0,0,0,0
+337/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,25/05/2021,0,0,0,5800,0,0,0
+338/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,25/05/2021,0,0,0,760,0,0,0
+339/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,24/05/2021,0,0,0,0,0,0,0
+340/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,24/05/2021,0,0,0,0,0,0,0
+341/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,26/05/2021,0,0,0,7560,0,0,0
+342/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,26/05/2021,0,0,0,27800,0,0,0
+343/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,26/05/2021,0,0,0,3200,0,0,100
+344/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,26/05/2021,0,0,0,1300,0,0,0
+345/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,26/05/2021,0,0,0,600,0,0,0
+346/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,26/05/2021,0,0,0,1600,0,0,0
+347/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,26/05/2021,0,0,0,3800,0,0,0
+348/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,26/05/2021,0,0,0,1800,0,0,0
+349/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,26/05/2021,0,0,0,0,0,0,0
+350/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,26/05/2021,0,0,0,289400,0,0,0
+351/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,26/05/2021,0,0,0,68760,0,0,0
+352/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,26/05/2021,0,0,0,0,0,0,0
+353/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,26/05/2021,0,160,0,15280,0,0,0
+354/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,25/05/2021,40,160,0,23000,0,0,0
+355/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,27/05/2021,0,0,0,0,0,0,0
+356/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,27/05/2021,0,0,0,34600,0,0,0
+357/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,27/05/2021,0,0,0,60000,0,0,0
+358/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,27/05/2021,0,0,0,43000,0,0,0
+359/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,01/06/2021,0,0,0,6640,0,0,200
+360/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,01/06/2021,0,0,0,8800,0,0,0
+361/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,01/06/2021,0,40,0,16600,0,0,0
+362/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,01/06/2021,120,520,0,17120,0,0,0
+363/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,01/06/2021,0,240,0,6320,0,0,240
+364/21,Portland,B25AK,Dorset Council,SY68707757,Site A,01/06/2021,0,0,0,560,0,0,0
+365/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,01/06/2021,0,0,0,48400,0,0,200
+366/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,01/06/2021,0,0,0,1100,0,0,0
+367/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,01/06/2021,80,160,0,252000,0,0,40
+368/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,31/05/2021,0,240,0,162000,0,0,0
+369/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,01/06/2021,0,0,0,24600,0,0,0
+370/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,02/06/2021,0,0,0,4200,0,0,0
+371/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,02/06/2021,40,0,40,8920,0,0,40
+372/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,02/06/2021,320,320,0,16320,0,0,0
+373/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,03/06/2021,0,0,0,600,0,0,0
+374/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,03/06/2021,0,0,0,0,0,0,0
+375/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,07/06/2021,0,200,0,1680,0,0,0
+376/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,07/06/2021,0,280,0,520,0,0,0
+377/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,07/06/2021,0,0,0,840,0,0,0
+378/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,07/06/2021,0,0,0,220,0,0,0
+379/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,07/06/2021,0,0,0,2840,0,0,0
+380/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,07/06/2021,40,0,0,1240,0,0,0
+381/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,06/06/2021,0,0,0,0,0,0,0
+382/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,07/06/2021,0,0,0,320,0,0,0
+383/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,07/06/2021,0,0,0,3080,0,0,40
+384/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,08/06/2021,0,0,0,0,0,0,0
+385/21,The Wash,B003V,Boston BC,TF44234098,Toft,07/06/2021,0,0,0,15100,0,0,100
+386/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,08/06/2021,0,0,0,52700,0,0,0
+387/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,07/06/2021,0,0,0,0,0,0,0
+388/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,08/06/2021,0,0,0,0,0,0,0
+389/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,08/06/2021,0,0,0,960,0,0,0
+390/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,07/06/2021,0,0,0,4700,0,0,0
+391/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,07/06/2021,0,0,0,0,0,0,0
+392/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,07/06/2021,0,80,0,11560,0,0,0
+393/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,07/06/2021,0,80,0,45440,0,0,0
+394/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,09/06/2021,0,0,0,960,0,0,0
+395/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,09/06/2021,0,0,0,3520,0,0,0
+396/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,09/06/2021,0,0,0,52200,0,0,0
+397/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,09/06/2021,0,0,0,400,0,0,0
+398/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,09/06/2021,0,40,0,19240,0,0,200
+399/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,09/06/2021,0,0,0,11000,0,0,0
+400/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,09/06/2021,0,0,0,13600,0,0,0
+401/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,09/06/2021,40,0,0,19360,0,0,0
+402/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,09/06/2021,0,0,0,0,0,0,240
+403/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,10/06/2021,0,0,0,0,0,0,0
+404/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,14/06/2021,0,0,0,720,0,0,0
+405/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,14/06/2021,0,0,40,40,0,0,0
+406/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,14/06/2021,0,40,0,560,0,0,0
+407/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,14/06/2021,200,280,0,2400,0,0,0
+408/21,Portland,B25AM,Dorset Council,SY68707757,Site A,14/06/2021,0,0,0,2720,0,0,0
+409/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,13/06/2021,0,0,0,7200,0,0,0
+410/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,14/06/2021,0,400,0,800,0,0,0
+411/21,Swale,B076P,Swale BC,TR01316497,The Causeway,14/06/2021,0,0,0,0,0,0,0
+412/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,14/06/2021,0,40,0,1560,40,0,0
+413/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,15/06/2021,0,0,0,24900,0,0,0
+414/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,15/06/2021,0,0,0,0,0,0,0
+415/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,15/06/2021,0,0,0,0,0,0,200
+416/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,15/06/2021,0,0,0,58600,0,0,300
+417/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,15/06/2021,0,0,0,753000,0,0,1000
+418/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,15/06/2021,0,0,0,1200,0,0,0
+419/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,15/06/2021,0,0,0,6880,0,0,0
+420/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,16/06/2021,0,0,0,2900,0,0,0
+421/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,16/06/2021,0,0,0,3480,0,0,0
+422/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,16/06/2021,0,0,0,2200,0,0,0
+423/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,16/06/2021,0,80,0,1000,0,0,0
+424/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,16/06/2021,40,0,0,118000,0,0,0
+425/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,15/06/2021,0,160,0,5480,0,0,0
+426/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,15/06/2021,0,0,0,0,0,0,0
+428/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,21/06/2021,0,0,0,480,0,0,0
+429/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,21/06/2021,0,0,0,0,0,0,0
+430/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,21/06/2021,0,200,0,80,0,0,0
+431/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,21/06/2021,0,0,0,200,0,0,200
+432/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,22/06/2021,0,0,0,160,0,0,0
+433/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,21/06/2021,0,0,0,0,0,0,0
+434/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,22/06/2021,0,0,0,7120,0,0,0
+435/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,20/06/2021,0,0,0,0,0,0,0
+436/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,22/06/2021,0,80,0,9360,0,0,0
+437/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,23/06/2021,0,0,0,0,0,0,0
+438/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,23/06/2021,0,0,0,400,0,0,0
+439/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,23/06/2021,0,0,0,1000,0,0,0
+440/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,23/06/2021,0,0,0,0,0,0,0
+441/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,23/06/2021,0,0,0,0,0,0,0
+442/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,23/06/2021,40,0,0,160,0,0,0
+443/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,23/06/2021,0,0,0,12760,0,0,0
+444/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,23/06/2021,0,0,0,0,0,0,0
+445/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,23/06/2021,0,0,0,1000,0,0,280000
+446/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,24/06/2021,0,0,0,0,0,0,0
+447/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,23/06/2021,0,0,0,1080,0,0,0
+448/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,24/06/2021,0,0,0,400,0,0,0
+449/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,23/06/2021,0,120,0,11320,0,0,0
+450/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,24/06/2021,0,0,0,6480,0,0,0
+451/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,24/06/2021,0,0,0,1200,0,0,0
+452/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,28/06/2021,0,40,0,0,0,0,0
+453/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,28/06/2021,0,200,0,240,0,0,0
+454/21,Portland,B25AK,Dorset Council,SY68707757,Site A,28/06/2021,0,0,0,109000,0,0,0
+455/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,29/06/2021,0,0,0,0,0,0,0
+456/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,29/06/2021,0,0,0,0,0,0,0
+457/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,29/06/2021,0,0,0,9000,0,0,0
+458/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,29/06/2021,0,0,0,12000,0,0,0
+459/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,29/06/2021,0,0,0,13400,0,0,0
+460/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,29/06/2021,0,0,0,7680,0,0,0
+461/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,30/06/2021,0,0,0,200,0,0,0
+462/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,30/06/2021,200,160,0,240,0,0,0
+463/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,30/06/2021,40,0,0,0,0,0,0
+464/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,30/06/2021,200,400,0,4600,0,0,0
+465/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,30/06/2021,40,800,0,2080,0,0,0
+466/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,30/06/2021,40,400,0,720,0,0,0
+467/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,30/06/2021,40,1360,0,1840,0,0,0
+468/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,29/06/2021,0,0,0,0,0,0,0
+469/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,30/06/2021,0,200,0,0,0,0,1200
+470/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,29/06/2021,0,40,0,1840,0,0,0
+471/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,01/07/2021,0,0,0,200,0,0,0
+472/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,05/07/2021,0,0,0,0,0,0,0
+473/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,05/07/2021,0,0,0,0,0,0,0
+474/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,04/07/2021,0,0,0,0,0,0,0
+475/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,05/07/2021,0,0,0,0,0,0,1574000
+476/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,06/07/2021,0,0,0,300,0,0,0
+477/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,06/07/2021,0,0,200,5200,0,0,0
+478/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,06/07/2021,100,0,0,400,0,0,0
+479/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,05/07/2021,0,0,0,5800,0,0,0
+480/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,07/07/2021,0,0,0,0,0,0,0
+482/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,07/07/2021,0,400,0,0,0,0,0
+483/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,07/07/2021,0,0,0,0,0,0,0
+484/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,07/07/2021,400,0,0,600,0,0,0
+485/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,07/07/2021,0,240,0,2360,0,0,40
+486/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,07/07/2021,0,720,0,2000,0,0,0
+487/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,07/07/2021,0,640,0,400,0,0,0
+488/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,07/07/2021,0,0,0,7080,0,0,0
+489/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,07/07/2021,0,0,0,37080,0,0,0
+490/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,07/07/2021,200,0,0,7800,0,0,0
+491/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,07/07/2021,0,0,0,6720,0,0,0
+492/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,07/07/2021,0,40,0,7720,0,0,0
+494/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,07/07/2021,0,0,0,0,0,0,0
+495/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,07/07/2021,0,0,0,5900,0,0,0
+496/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,08/07/2021,0,0,0,0,0,0,0
+497/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,08/07/2021,0,0,0,320,0,0,0
+498/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,08/07/2021,0,0,0,2840,0,0,0
+499/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,12/07/2021,0,0,0,0,0,0,0
+500/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,12/07/2021,0,0,0,1440,0,0,40
+501/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,12/07/2021,0,200,0,120,0,0,0
+502/21,Portland,B25AK,Dorset Council,SY68707757,Site A,12/07/2021,0,40,40,2640,0,40,40
+503/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,12/07/2021,0,0,0,360,0,0,0
+504/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,12/07/2021,0,0,0,0,0,0,0
+505/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,12/07/2021,0,40,0,0,0,0,80
+506/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,12/07/2021,0,0,0,200,0,0,0
+507/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,12/07/2021,0,80,0,0,0,0,0
+508/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,12/07/2021,0,40,0,4520,0,0,0
+509/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,13/07/2021,0,0,0,680,0,0,0
+510/21,The Wash,B003V,Boston BC,TF44234098,Toft,12/07/2021,0,0,0,80,0,0,0
+511/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,13/07/2021,0,0,0,600,0,0,0
+512/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,13/07/2021,0,0,0,0,0,0,0
+513/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,13/07/2021,0,0,0,3800,0,0,0
+514/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,13/07/2021,0,0,0,0,0,0,0
+515/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,13/07/2021,40,0,0,0,0,0,0
+516/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,13/07/2021,120,80,0,400,0,0,0
+517/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,13/07/2021,0,0,0,1200,0,0,0
+518/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,13/07/2021,0,0,0,800,0,0,0
+519/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,13/07/2021,0,0,0,0,0,0,0
+520/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,12/07/2021,0,0,0,0,0,0,0
+521/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,13/07/2021,0,0,0,0,0,0,0
+522/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,13/07/2021,0,0,0,80,0,0,0
+523/21,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,13/07/2021,40,40,0,1040,0,0,0
+524/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,12/07/2021,0,40,0,5120,0,0,0
+525/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,14/07/2021,0,280,0,2160,0,0,0
+526/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,14/07/2021,0,0,0,12000,0,0,0
+527/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,13/07/2021,0,0,0,4600,0,0,0
+528/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,14/07/2021,0,0,0,640,0,0,0
+529/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,14/07/2021,0,0,0,0,0,0,0
+530/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,14/07/2021,0,200,0,0,0,0,0
+531/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,14/07/2021,0,0,0,2400,0,0,0
+532/21,Swale,B076P,Swale BC,TR01316497,The Causeway,14/07/2021,0,0,0,0,0,0,0
+533/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,14/07/2021,0,0,0,177000,0,0,0
+534/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,14/07/2021,0,0,0,410000,0,0,0
+535/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,14/07/2021,0,0,0,1600,0,0,0
+537/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,15/07/2021,0,0,0,0,0,0,0
+538/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,15/07/2021,0,0,0,200,0,0,0
+539/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,19/07/2021,0,0,0,6240,0,0,0
+540/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,19/07/2021,0,0,0,0,0,0,0
+541/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,19/07/2021,0,0,0,10800,0,0,0
+542/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,20/07/2021,500,0,0,200,0,0,100
+543/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,20/07/2021,200,0,0,200,0,0,0
+544/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,20/07/2021,0,40,0,4520,0,0,0
+545/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,20/07/2021,0,0,0,42200,0,0,0
+546/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,19/07/2021,0,0,0,1000,0,0,0
+547/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,21/07/2021,0,0,0,1800,0,0,0
+548/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,19/07/2021,0,0,40,0,0,0,0
+549/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,21/07/2021,0,680,0,2160,0,0,0
+550/21,Dart,B028B,South Hams DC,SX87415599,Waddeton,21/07/2021,0,0,0,0,0,0,0
+551/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,21/07/2021,0,0,0,2000,0,0,0
+552/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,21/07/2021,0,0,0,700,0,0,0
+553/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,21/07/2021,0,0,0,13440,0,0,0
+554/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,22/07/2021,0,0,0,0,0,0,0
+555/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,22/07/2021,0,0,0,0,0,0,0
+556/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,22/07/2021,0,0,0,0,0,0,0
+557/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,22/07/2021,0,40,0,0,0,0,0
+558/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,21/07/2021,0,40,0,0,0,0,40
+559/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,21/07/2021,0,0,0,1960,0,0,0
+560/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,26/07/2021,0,0,0,0,0,0,0
+561/21,Portland,B25AK,Dorset Council,SY68707757,Site A,26/07/2021,0,0,0,7000,0,0,0
+562/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,26/07/2021,0,0,0,700,0,0,0
+563/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,26/07/2021,0,0,0,9800,0,0,0
+564/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,26/07/2021,0,0,0,0,0,0,0
+565/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,27/07/2021,0,0,120,0,0,0,0
+566/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,27/07/2021,0,0,0,0,0,0,0
+567/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,27/07/2021,0,0,0,0,0,0,0
+568/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,26/07/2021,0,0,0,0,0,0,0
+569/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,26/07/2021,0,0,0,1000,0,0,0
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+571/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,27/07/2021,0,0,0,0,0,0,0
+572/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,27/07/2021,0,0,0,0,0,0,0
+573/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,27/07/2021,0,80,0,3120,0,0,0
+574/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,27/07/2021,0,0,0,720,0,0,0
+575/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,27/07/2021,0,40,0,1000,0,40,0
+576/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,27/07/2021,0,40,0,80,0,120,0
+577/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,26/07/2021,0,40,0,80,0,0,0
+578/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,28/07/2021,160,40,0,1000,0,0,0
+579/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,28/07/2021,240,0,0,360,0,0,0
+580/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,28/07/2021,240,0,0,360,0,0,40
+581/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,28/07/2021,0,0,0,3280,0,0,40
+582/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,28/07/2021,0,0,0,2700,0,0,0
+583/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,28/07/2021,0,40,0,1360,0,0,0
+584/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,29/07/2021,0,0,0,80,0,0,0
+585/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,02/08/2021,0,0,0,0,0,0,0
+586/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,02/08/2021,0,40,0,3000,0,0,0
+587/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,02/08/2021,0,0,0,11160,0,0,0
+588/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,02/08/2021,0,80,0,9400,0,0,0
+589/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,02/08/2021,0,0,0,0,0,0,0
+590/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,02/08/2021,0,80,0,160,0,0,4160
+591/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,03/08/2021,0,0,0,0,0,0,0
+593/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,03/08/2021,0,0,0,0,0,0,0
+594/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,03/08/2021,500,0,0,200,0,0,0
+595/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,03/08/2021,0,0,0,0,0,0,0
+596/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,03/08/2021,0,0,0,0,0,0,0
+597/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,04/08/2021,100,0,0,2500,0,0,100
+598/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,04/08/2021,40,0,0,0,0,0,760
+599/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,04/08/2021,0,0,0,240,0,0,240
+600/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,04/08/2021,0,0,0,0,0,0,40
+601/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,05/08/2021,0,0,40,0,0,0,0
+602/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,05/08/2021,0,0,0,6000,0,0,0
+603/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,05/08/2021,0,0,0,0,0,0,0
+604/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,09/08/2021,0,0,0,0,0,0,0
+605/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,09/08/2021,0,0,0,0,0,0,0
+606/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,08/08/2021,0,40,40,0,0,0,0
+607/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,09/08/2021,0,0,0,12640,0,0,0
+608/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,09/08/2021,0,0,0,500,0,0,0
+609/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,09/08/2021,0,0,0,2400,0,0,400
+610/21,The Wash,B003V,Boston BC,TF44234098,Toft,09/08/2021,0,0,0,300,0,0,0
+611/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,10/08/2021,0,0,0,160,0,0,0
+612/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,10/08/2021,0,0,0,0,0,0,0
+613/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,09/08/2021,0,0,100,0,0,0,0
+614/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,10/08/2021,0,0,0,0,0,0,0
+615/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,10/08/2021,0,0,0,520,0,0,0
+616/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,10/08/2021,0,0,0,0,0,0,0
+617/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,09/08/2021,0,0,0,0,0,0,0
+618/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,10/08/2021,0,0,0,0,0,0,0
+619/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,10/08/2021,0,0,0,0,0,0,0
+620/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,10/08/2021,0,0,0,0,0,0,0
+621/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,10/08/2021,0,0,0,0,0,0,0
+622/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,09/08/2021,0,0,0,560,0,0,0
+623/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,10/08/2021,0,0,0,80,0,0,0
+624/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,11/08/2021,0,40,0,480,0,0,40
+625/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,11/08/2021,0,0,0,160,0,0,120
+626/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,11/08/2021,0,0,0,200,0,0,0
+627/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,11/08/2021,0,0,0,12280,0,0,40
+628/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,10/08/2021,0,0,0,6280,0,0,0
+629/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,11/08/2021,0,0,0,2600,0,0,0
+630/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,11/08/2021,0,0,0,0,0,0,0
+631/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,11/08/2021,0,0,0,0,0,0,0
+632/21,Swale,B076P,Swale BC,TR01316497,The Causeway,11/08/2021,0,0,0,0,0,0,0
+633/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,11/08/2021,0,0,0,3300,0,0,0
+634/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,11/08/2021,0,0,0,5040,0,0,0
+635/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,11/08/2021,0,0,0,920,0,0,0
+636/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,10/08/2021,0,0,0,16480,0,0,0
+637/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,10/08/2021,0,0,0,0,0,0,0
+638/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,12/08/2021,0,0,0,15200,0,0,0
+639/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,16/08/2021,0,0,0,13720,0,0,0
+640/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,16/08/2021,0,40,0,188000,0,0,0
+641/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,16/08/2021,0,0,0,43520,0,0,40
+642/21,Portland,B25AK,Dorset Council,SY68707757,Site A,16/08/2021,0,0,0,880,0,0,0
+643/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,16/08/2021,0,0,0,680,0,0,0
+644/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,16/08/2021,0,0,0,39680,0,0,0
+645/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,17/08/2021,0,0,0,0,0,0,0
+646/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,18/08/2021,0,0,0,0,0,0,0
+647/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,18/08/2021,0,0,0,0,0,0,0
+649/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,18/08/2021,0,0,0,520,0,0,0
+650/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,18/08/2021,0,0,0,0,0,0,0
+651/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,18/08/2021,0,0,0,17960,0,0,0
+652/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,18/08/2021,0,0,0,0,0,0,0
+654/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,19/08/2021,0,0,0,0,0,0,0
+655/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,19/08/2021,0,0,0,3840,0,0,0
+656/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,19/08/2021,0,0,0,30760,0,0,0
+657/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,23/08/2021,0,0,0,1400,0,0,0
+658/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,23/08/2021,0,0,0,0,0,0,0
+659/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,23/08/2021,0,0,0,0,0,0,0
+660/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,23/08/2021,0,40,0,160,0,0,0
+661/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,23/08/2021,0,0,0,0,0,0,0
+662/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,24/08/2021,0,0,400,0,0,0,0
+663/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,24/08/2021,0,0,0,6600,0,0,0
+664/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,23/08/2021,0,0,0,560,0,0,0
+665/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,24/08/2021,0,40,0,80,0,0,0
+666/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,24/08/2021,0,0,0,0,0,0,0
+667/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,24/08/2021,0,0,0,0,0,0,0
+668/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,23/08/2021,0,40,0,5400,0,0,0
+669/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,24/08/2021,0,0,0,480,0,0,0
+670/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,24/08/2021,0,0,0,1480,0,0,0
+671/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,24/08/2021,0,0,0,0,0,0,0
+672/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,24/08/2021,0,0,0,200,0,0,0
+673/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,24/08/2021,0,0,0,0,0,0,0
+674/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,24/08/2021,0,0,0,200,0,0,0
+675/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,23/08/2021,0,0,0,3800,0,0,0
+676/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,23/08/2021,0,0,0,1440,0,0,0
+677/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,25/08/2021,0,0,0,2000,0,0,0
+678/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,24/08/2021,0,0,0,0,0,0,0
+679/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,24/08/2021,0,0,0,0,0,0,0
+680/21,Dart,B028B,South Hams DC,SX87415599,Waddeton,25/08/2021,0,0,0,0,0,0,0
+681/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,25/08/2021,0,0,0,0,0,0,0
+682/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,25/08/2021,0,0,0,0,0,0,0
+683/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,25/08/2021,0,200,0,6200,0,0,0
+685/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,25/08/2021,0,0,0,0,0,0,0
+686/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,25/08/2021,0,0,0,0,0,0,0
+687/21,Portland,B25AK,Dorset Council,SY68707757,Site A,31/08/2021,40,0,0,560,0,0,0
+688/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,30/08/2021,0,280,0,0,0,0,0
+689/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,30/08/2021,0,1880,0,0,0,0,0
+690/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,31/08/2021,0,0,0,520,0,0,0
+691/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,01/09/2021,0,100,0,0,0,0,0
+692/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,01/09/2021,0,0,0,0,0,0,0
+693/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,01/09/2021,0,0,0,0,0,0,0
+694/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,02/09/2021,0,0,0,400,0,0,0
+695/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,02/09/2021,0,0,0,0,0,0,0
+697/21,The Wash,B003V,Boston BC,TF44234098,Toft,06/09/2021,0,0,0,0,0,0,0
+698/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,06/09/2021,0,0,0,0,0,0,0
+699/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,06/09/2021,0,320,0,0,0,0,0
+700/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,06/09/2021,0,2960,0,0,0,0,40
+701/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,06/09/2021,0,1400,0,0,0,0,0
+702/21,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,06/09/2021,0,0,0,1800,0,0,0
+703/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,06/09/2021,0,0,0,160,0,0,0
+704/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,05/09/2021,0,0,0,160,0,0,0
+705/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,06/09/2021,0,0,0,0,0,0,0
+706/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,06/09/2021,0,0,0,0,0,0,0
+707/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,06/09/2021,0,0,0,560,0,0,0
+708/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,07/09/2021,0,0,0,480,0,0,0
+709/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,07/09/2021,0,0,0,0,0,0,0
+710/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,07/09/2021,0,0,0,0,0,0,0
+711/21,Portland,B25AK,Dorset Council,SY68707757,Site A,07/09/2021,0,40,0,160,0,0,0
+712/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,07/09/2021,0,0,0,320,0,0,0
+713/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,07/09/2021,0,0,0,0,0,0,0
+714/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,07/09/2021,0,0,0,0,0,0,0
+715/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,07/09/2021,0,0,0,0,0,0,0
+716/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,07/09/2021,0,0,0,0,0,0,0
+717/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,07/09/2021,0,40,0,0,0,0,0
+718/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,06/09/2021,0,400,0,0,0,0,0
+719/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,06/09/2021,0,0,0,11600,0,0,0
+720/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,07/09/2021,0,0,0,0,0,0,0
+721/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,08/09/2021,0,0,0,0,0,0,0
+722/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,08/09/2021,0,0,0,0,0,0,0
+723/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,08/09/2021,0,0,0,0,0,0,0
+724/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,08/09/2021,0,400,0,80,0,0,40
+725/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,07/09/2021,0,0,0,720,0,0,0
+726/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,08/09/2021,0,0,0,160,0,0,0
+727/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,07/09/2021,0,0,0,0,0,0,0
+728/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,08/09/2021,0,0,0,400,0,0,0
+729/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,08/09/2021,0,0,0,0,0,0,0
+730/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,08/09/2021,0,0,0,0,0,0,0
+732/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,08/09/2021,0,0,0,0,0,0,0
+733/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,09/09/2021,0,0,0,400,0,0,0
+734/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,09/09/2021,0,0,0,25800,0,0,0
+735/21,Swale,B076P,Swale BC,TR01316497,The Causeway,09/09/2021,0,0,0,0,0,0,0
+736/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,13/09/2021,0,480,0,0,0,0,0
+737/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,13/09/2021,0,1320,0,160,0,0,0
+738/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,13/09/2021,0,0,0,5720,0,0,0
+739/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,14/09/2021,0,0,0,0,0,0,0
+740/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,14/09/2021,0,0,0,0,0,0,0
+741/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,14/09/2021,0,0,0,1400,0,0,0
+742/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,13/09/2021,0,80,0,160,0,0,0
+743/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,15/09/2021,0,0,0,0,0,0,0
+745/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,15/09/2021,0,160,0,400,0,0,80
+746/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,15/09/2021,0,0,0,0,0,0,0
+747/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,15/09/2021,0,0,0,600,0,0,0
+748/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,15/09/2021,0,0,0,280,0,0,0
+749/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,16/09/2021,0,0,0,400,0,0,0
+750/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,16/09/2021,0,0,0,1800,0,0,0
+751/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,20/09/2021,0,240,0,0,0,0,0
+752/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,20/09/2021,0,1000,0,0,0,0,0
+753/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,20/09/2021,0,0,0,400,0,0,100
+754/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,20/09/2021,0,0,0,1800,0,0,0
+755/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,21/09/2021,0,0,0,960,0,0,0
+756/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,21/09/2021,0,0,18520,0,0,0,0
+757/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,21/09/2021,0,0,0,0,0,0,0
+758/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,20/09/2021,0,0,0,0,0,0,0
+759/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,21/09/2021,0,0,0,800,0,0,0
+760/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,21/09/2021,0,0,0,0,0,0,0
+761/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,21/09/2021,0,120,0,440,0,0,0
+762/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,21/09/2021,0,0,0,0,0,0,200
+763/21,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,22/09/2021,0,0,0,200,0,0,0
+764/21,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,22/09/2021,0,0,0,0,0,0,0
+765/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,22/09/2021,0,0,0,0,0,0,0
+766/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,22/09/2021,0,0,0,400,0,0,0
+767/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,22/09/2021,0,760,0,80,0,0,0
+768/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,22/09/2021,0,0,0,0,0,0,0
+769/21,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,21/09/2021,0,200,0,2800,0,0,0
+770/21,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,21/09/2021,0,0,0,1200,0,0,200
+771/21,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,22/09/2021,0,0,0,1500,0,0,0
+772/21,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,22/09/2021,0,0,0,0,0,0,0
+773/21,The Thames,B16BR,London PHA,TQ93798271,Phoenix,22/09/2021,0,0,0,0,0,0,0
+774/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,22/09/2021,0,0,0,0,0,0,0
+775/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,22/09/2021,0,0,0,0,0,0,0
+776/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,22/09/2021,0,0,0,0,0,0,0
+777/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,22/09/2021,0,0,0,0,0,0,0
+778/21,Porlock,B094D,Somerset West and Taunton Council,SS87114787,Porlock East,22/09/2021,0,0,0,400,0,0,0
+779/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,27/09/2021,0,0,0,0,0,0,0
+780/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,27/09/2021,0,100,0,0,0,0,0
+781/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,27/09/2021,0,80,0,1080,0,0,0
+782/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,26/09/2021,0,0,0,0,0,0,0
+783/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,27/09/2021,0,0,0,11160,0,0,0
+784/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,28/09/2021,0,0,0,0,0,0,0
+785/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,28/09/2021,0,0,0,0,0,0,0
+786/21,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,27/09/2021,0,0,0,0,0,0,0
+787/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,28/09/2021,0,0,0,2520,0,0,0
+788/21,Dart,B028B,South Hams DC,SX87415599,Waddeton,28/09/2021,0,0,0,0,0,0,0
+789/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,28/09/2021,0,0,0,320,0,0,0
+790/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,29/09/2021,0,0,0,0,0,0,0
+791/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,29/09/2021,0,0,0,0,0,0,0
+792/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,29/09/2021,0,0,0,0,0,0,0
+793/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,04/10/2021,0,0,0,0,0,0,0
+795/21,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,04/10/2021,0,0,0,0,0,0,0
+796/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,04/10/2021,0,0,0,0,0,0,0
+797/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,04/10/2021,0,0,0,2560,0,0,0
+798/21,Roach,B73AF,London PHA,TQ94909207,Paglesham,04/10/2021,0,0,0,0,0,0,0
+799/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,03/10/2021,0,0,100,0,0,0,0
+800/21,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,04/10/2021,0,0,0,1640,0,0,0
+801/21,Dart,B028P,South Hams DC,SX87945350,Long Wood South,05/10/2021,0,0,0,0,0,0,0
+802/21,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,05/10/2021,0,0,0,0,0,0,0
+803/21,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,04/10/2021,0,80,0,0,0,0,0
+804/21,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,04/10/2021,0,0,0,0,0,0,0
+805/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,06/10/2021,0,0,0,800,0,0,0
+806/21,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,06/10/2021,0,0,0,0,0,0,0
+807/21,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,06/10/2021,0,0,0,0,0,0,0
+808/21,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,07/10/2021,0,0,0,4800,0,0,0
+809/21,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,07/10/2021,0,0,0,12500,0,0,0
+810/21,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,06/10/2021,0,0,0,0,0,0,0
+811/21,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,05/10/2021,0,0,0,400,0,0,0
+812/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,11/10/2021,0,0,0,0,0,0,0
+813/21,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,11/10/2021,0,0,0,320,0,0,0
+814/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,11/10/2021,0,40,0,3880,0,0,0
+815/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,11/10/2021,0,80,0,12320,0,0,0
+816/21,Portland,B25AK,Dorset Council,SY68707757,Site A,11/10/2021,0,240,0,1040,0,0,0
+817/21,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,11/10/2021,0,0,0,19900,0,0,0
+818/21,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,11/10/2021,0,0,0,0,0,0,0
+819/21,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,12/10/2021,0,0,0,300,0,0,0
+820/21,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,12/10/2021,0,0,0,1000,0,0,0
+821/21,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,12/10/2021,0,0,0,400,0,0,0
+822/21,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,12/10/2021,0,0,0,0,0,0,0
+823/21,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,12/10/2021,0,0,0,0,0,0,0
+824/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,12/10/2021,0,0,0,0,0,0,0
+825/21,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,12/10/2021,0,0,0,39400,0,0,0
+826/21,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,11/10/2021,0,0,0,0,0,0,0
+827/21,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,12/10/2021,0,0,0,160,0,0,0
+828/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,11/10/2021,0,40,0,0,0,0,0
+829/21,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,13/10/2021,0,0,0,0,0,0,0
+830/21,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,13/10/2021,0,0,40,2680,0,0,0
+831/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,13/10/2021,0,160,0,20880,0,0,0
+832/21,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,13/10/2021,0,0,0,0,0,0,0
+833/21,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,13/10/2021,0,0,0,0,0,0,0
+835/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,12/10/2021,0,200,0,800,0,0,0
+836/21,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,13/10/2021,0,0,0,0,0,0,0
+837/21,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,13/10/2021,0,0,0,0,0,0,0
+838/21,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,18/10/2021,0,0,0,0,0,0,0
+839/21,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,18/10/2021,0,0,0,0,0,0,0
+841/21,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,18/10/2021,0,0,0,4400,0,0,0
+842/21,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,17/10/2021,0,200,0,13200,0,0,0
+843/21,Portland,B25AK,Dorset Council,SY68707757,Site A,18/10/2021,0,0,0,720,0,0,0
+844/21,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,19/10/2021,0,0,0,0,0,0,0
+845/21,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,19/10/2021,0,0,0,0,0,0,0
+846/21,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,19/10/2021,0,0,0,0,0,0,0
+848/21,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,19/10/2021,0,0,0,400,0,0,0
+849/21,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,20/10/2021,0,0,17480,0,0,0,0
+850/21,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,20/10/2021,0,80,0,4360,0,0,40
+851/21,Swale,B076P,Swale BC,TR01316497,The Causeway,21/10/2021,0,0,0,200,0,0,0
+852/21,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,25/10/2021,0,0,0,0,0,0,0
+853/21,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,25/10/2021,0,40,0,7080,0,0,0
+854/21,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,26/10/2021,0,0,0,0,0,0,0
+855/21,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,25/10/2021,0,40,0,0,0,0,0
+856/21,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,27/10/2021,0,0,0,0,0,0,0
+857/21,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,26/10/2021,0,0,0,0,0,0,0
